@@ -9,7 +9,9 @@ Clone the Repository:
 bash
 
 Copy code
+```
 git clone https://github.com/hamzaharist/chest_image_recognition01.git
+```
 
 ## Install Dependencies: 
 Make sure you have the required dependencies installed. You can install them using the following command:
@@ -17,15 +19,19 @@ Make sure you have the required dependencies installed. You can install them usi
 bash
 
 Copy code
+```
 pip install -r requirements.txt
-
+```
 ## Run the Streamlit App:
+
 Execute the following command to run the Streamlit app:
 
 bash
 
 Copy code
+```
 streamlit run main.py
+```
 This will launch a local development server, and you can access the app in your web browser.
 
 ## Upload Chest X-ray Images:
