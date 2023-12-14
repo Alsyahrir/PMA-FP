@@ -1,4 +1,4 @@
-# Chest Image Recognition for COVID, Pneumonia, or Normal Diagnosis aljawir
+# Chest Image Recognition for COVID, Pneumonia, or Normal Diagnosis
 This Streamlit app utilizes a trained machine learning model to classify chest X-ray images into three categories: Viral Pneumonia, COVID-19, or Normal. The underlying model is loaded from a JSON file containing the architecture and a separate weight file.
 
 ## Instructions
